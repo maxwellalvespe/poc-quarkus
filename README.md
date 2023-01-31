@@ -1,5 +1,4 @@
-# code-with-quarkus ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/maxwellalvespe/poc-quarkus/workflow-maven-quarkus)
-
+# code-with-quarkus 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
