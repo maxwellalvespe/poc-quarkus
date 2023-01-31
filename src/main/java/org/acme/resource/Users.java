@@ -27,6 +27,7 @@ public class Users {
 
     @POST
     public User post(User user) {
+        logger.info("Requisição obtida : {}".replace("{}", user.toString()));
         users.add(user);
         return users.stream()
                 .filter(u -> u.getCpf().equals(user.getCpf()))
