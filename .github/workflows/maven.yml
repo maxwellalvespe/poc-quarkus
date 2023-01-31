@@ -1,4 +1,4 @@
-name: workflow-maven-quarkus
+name: maven
 
 on:
   push:
